@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pytorh Lightning
+lightning_logs/
+.lr_find*
